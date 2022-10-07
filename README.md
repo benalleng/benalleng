@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WASDOOM**
 
-- 🌱 I’m currently learning **WASM, Rust,Bevy**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **benalleng@gmail.com**
 
