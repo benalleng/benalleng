@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Allen</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
 
-- 🔭 I’m currently working on **WASDOOM**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning ****
 
