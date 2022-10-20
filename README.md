@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning ****
 
-- 📫 How to reach me **benalleng@gmail.com**
-
 - ⚡ Fun fact **Roast my mustache**
 
 <h3 align="left">Connect with me:</h3>
