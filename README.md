@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Allen</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
 
-- 🔭 I’m currently working on ****
-
-- 🌱 I’m currently learning ****
-
-- ⚡ Fun fact **Roast my mustache**
+**Roast my mustache**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
