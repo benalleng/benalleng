@@ -1,1 +1,1 @@
-Dev focusing on developer education and Bitcoin and Lightning accesibility thorugh better UI/UX.
+Dev focusing on developer education and Bitcoin and Lightning accessibility through better UI/UX.
