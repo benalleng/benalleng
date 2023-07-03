@@ -1,1 +1,1 @@
-Web dev with a focus on Bitcoin and Lightning accesibility.
+Dev focusing on developer education and Bitcoin and Lightning accesibility thorugh better UI/UX.
